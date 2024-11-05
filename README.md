@@ -1,5 +1,6 @@
 # simple-productivity
-Simple productivity extension to block and add break timers to distracting websites.
+<b>This is a simple productivity extension meant to block and add usage timers to distracting websites.</b>
+<br>
 Goal statement:
 
 Ever find yourself scrolling social media or the news when you know you should be working? 
