@@ -1,5 +1,5 @@
 # simple-productivity
-## A simple productivity extension meant to block and add usage timers to distracting websites
+## A simple productivity extension meant to block websites and add usage timers for breaks.
 
 ### Goal statement
 
@@ -10,7 +10,9 @@ I had the same issue, and other extensions weren't working for me because they e
 3) were too easy to ignore
 
 The solution? A bare-bones productivity extension that blocks websites BUT allows timers for self-allocated breaks. 
-This tool lets you be productive when you want and removes the itch to read the news every ten minutes. It allows you to set a usage timer but immediately blocks the website again after time runs out, similar to how Apple's App Limits work on the iPhone.
+This tool lets you be productive when you want and removes the itch to read the news every ten minutes. It allows you to set a usage timer but immediately blocks the website again after time runs out, similar to how Apple's App Limits work on the iPhone. 
+
+In practice, I've found the extension to be quite effective at limiting distractions.
 
 ### Installation steps
 
