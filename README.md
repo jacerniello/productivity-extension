@@ -17,7 +17,7 @@ This tool lets you be productive when you want and removes the itch to read the 
 1) Go to Code > Download ZIP and extract the "extension" folder.
 2) Drag and drop the extension folder into a chrome://extensions window with "Developer mode" turned on
 
-Usage:
+#### Usage:
 - Clicking on the extension will open a popup.
 - Websites can be added via the "Enter domain" input and the "Add" button. There's a "remove" button next to each domain to delete the restriction.
 - There's an option to set timers on websites you want to be on. "Set Timer" opens an input for this, and a countdown will appear after the timer begins.
