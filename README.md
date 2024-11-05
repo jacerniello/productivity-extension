@@ -1,5 +1,5 @@
 # simple-productivity
-<b>This is a simple productivity extension meant to block and add usage timers to distracting websites.</b>
+## A simple productivity extension meant to block and add usage timers to distracting websites
 <br>
 Goal statement:
 
