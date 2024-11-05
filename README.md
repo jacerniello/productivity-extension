@@ -1,15 +1,18 @@
 # simple-productivity
 ## A simple productivity extension meant to block and add usage timers to distracting websites
-<br>
-Goal statement:
+
+### Goal statement
 
 Ever find yourself scrolling social media or the news when you know you should be working? 
-I had the same issue, and other extensions were'nt working for me because they either 1) didn't block the sites effectively, 2) required payment, or 3) made me want to delete them.
+I had the same issue, and other extensions weren't working for me because they either 
+1) didn't block the sites effectively
+2) required payment
+3) were too easy to ignore
 
-The solution? A bare-bones productivity extension that blocks websites with timers for self-allocated breaks. 
-This tool lets you be productive when you want and removes the itch to read the news every ten minutes.
+The solution? A bare-bones productivity extension that blocks websites BUT allows timers for self-allocated breaks. 
+This tool lets you be productive when you want and removes the itch to read the news every ten minutes. It allows you to set a usage timer but immediately blocks the website again after time runs out, similar to how Apple's App Limits work on the iPhone.
 
-Installation steps:
+### Installation steps
 
 1) Go to Code > Download ZIP and extract the "extension" folder.
 2) Drag and drop the extension folder into a chrome://extensions window with "Developer mode" turned on
