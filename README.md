@@ -21,7 +21,7 @@ In practice, I've found the extension to be quite effective at limiting distract
 
 #### Usage:
 - Clicking on the extension will open a popup.
-- Websites can be added via the "Enter domain" input and the "Add" button. There's a "remove" button next to each domain to delete the restriction.
+- Websites to block can be added via the "Enter domain" input and the "Add" button. There's a "remove" button next to each domain to delete the restriction.
 - There's an option to set timers on websites you want to be on. "Set Timer" opens an input for this, and a countdown will appear after the timer begins.
 
   
